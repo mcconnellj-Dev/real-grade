@@ -1,0 +1,6 @@
+data/raw/
+__pycache__/
+.DS_Store
+node_modules/
+tests/live/bundle.js
+tests/live/shots/

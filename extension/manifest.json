@@ -1,0 +1,41 @@
+{
+  "manifest_version": 3,
+  "name": "Real Grade: vacation rental ratings",
+  "version": "0.4.0",
+  "description": "See how a rental really ranks in its area: ratings adjusted for review count, red flags, and price in context. Works on Airbnb.com.",
+  "permissions": [
+    "storage"
+  ],
+  "content_scripts": [
+    {
+      "matches": [
+        "https://www.airbnb.com/*"
+      ],
+      "js": [
+        "data/benchmarks.js",
+        "data/themes.js",
+        "data/calibration.js",
+        "src/grade.js",
+        "src/parse.js",
+        "src/search.js",
+        "src/flags.js",
+        "src/content.js"
+      ],
+      "run_at": "document_idle"
+    }
+  ],
+  "icons": {
+    "16": "icons/icon16.png",
+    "32": "icons/icon32.png",
+    "48": "icons/icon48.png",
+    "128": "icons/icon128.png"
+  },
+  "action": {
+    "default_icon": {
+      "16": "icons/icon16.png",
+      "32": "icons/icon32.png"
+    },
+    "default_title": "Real Grade"
+  },
+  "short_name": "Real Grade"
+}

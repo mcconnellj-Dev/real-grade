@@ -1,0 +1,243 @@
+{
+ "niobeClientData": [
+  [
+   "StaysPdpSections:{\"example\":true}",
+   {
+    "data": {
+     "node": {
+      "__typename": "DemandStayListing",
+      "id": "RGVtYW5kU3RheUxpc3Rpbmc6MTAwMDAwMQ==",
+      "listingRatingStats": {
+       "__typename": "DemandEntityRatingStats",
+       "overallRatingStats": {
+        "__typename": "DemandReviewRatingStats",
+        "ratingCount": "180",
+        "ratingAverage": 4.9
+       },
+       "categoryRatingStats": [
+        {
+         "__typename": "DemandCategoryRatingStats",
+         "categoryTypeA": "ACCURACY",
+         "value": {
+          "__typename": "DemandReviewRatingStats",
+          "ratingAverage": 4.85
+         }
+        },
+        {
+         "__typename": "DemandCategoryRatingStats",
+         "categoryTypeA": "CLEANLINESS",
+         "value": {
+          "__typename": "DemandReviewRatingStats",
+          "ratingAverage": 4.62
+         }
+        },
+        {
+         "__typename": "DemandCategoryRatingStats",
+         "categoryTypeA": "CHECKIN",
+         "value": {
+          "__typename": "DemandReviewRatingStats",
+          "ratingAverage": 4.95
+         }
+        },
+        {
+         "__typename": "DemandCategoryRatingStats",
+         "categoryTypeA": "LOCATION",
+         "value": {
+          "__typename": "DemandReviewRatingStats",
+          "ratingAverage": 4.84
+         }
+        },
+        {
+         "__typename": "DemandCategoryRatingStats",
+         "categoryTypeA": "COMMUNICATION",
+         "value": {
+          "__typename": "DemandReviewRatingStats",
+          "ratingAverage": 4.96
+         }
+        },
+        {
+         "__typename": "DemandCategoryRatingStats",
+         "categoryTypeA": "VALUE",
+         "value": {
+          "__typename": "DemandReviewRatingStats",
+          "ratingAverage": 4.87
+         }
+        }
+       ]
+      },
+      "location": {
+       "__typename": "DemandStayListingLocation",
+       "coordinate": {
+        "__typename": "Coordinate",
+        "latitude": 39.74,
+        "longitude": -104.95
+       }
+      },
+      "contextualizedGuestFavorites": {
+       "__typename": "GuestFavorite",
+       "isGuestFavorite": true
+      },
+      "pdpPresentation": {
+       "localizedLocation": "Denver",
+       "quality": {
+        "listingRatingStats": {
+         "__typename": "DemandEntityRatingStats",
+         "overallRatingStats": {
+          "__typename": "DemandReviewRatingStats",
+          "ratingCount": "180",
+          "ratingAverage": 4.9
+         },
+         "categoryRatingStats": [
+          {
+           "__typename": "DemandCategoryRatingStats",
+           "categoryTypeA": "ACCURACY",
+           "value": {
+            "__typename": "DemandReviewRatingStats",
+            "ratingAverage": 4.85
+           }
+          },
+          {
+           "__typename": "DemandCategoryRatingStats",
+           "categoryTypeA": "CLEANLINESS",
+           "value": {
+            "__typename": "DemandReviewRatingStats",
+            "ratingAverage": 4.62
+           }
+          },
+          {
+           "__typename": "DemandCategoryRatingStats",
+           "categoryTypeA": "CHECKIN",
+           "value": {
+            "__typename": "DemandReviewRatingStats",
+            "ratingAverage": 4.95
+           }
+          },
+          {
+           "__typename": "DemandCategoryRatingStats",
+           "categoryTypeA": "LOCATION",
+           "value": {
+            "__typename": "DemandReviewRatingStats",
+            "ratingAverage": 4.84
+           }
+          },
+          {
+           "__typename": "DemandCategoryRatingStats",
+           "categoryTypeA": "COMMUNICATION",
+           "value": {
+            "__typename": "DemandReviewRatingStats",
+            "ratingAverage": 4.96
+           }
+          },
+          {
+           "__typename": "DemandCategoryRatingStats",
+           "categoryTypeA": "VALUE",
+           "value": {
+            "__typename": "DemandReviewRatingStats",
+            "ratingAverage": 4.87
+           }
+          }
+         ]
+        },
+        "isGuestFavorite": true,
+        "supportsCategoryRatings": true,
+        "categoryRatings": [
+         {
+          "__typename": "CategoryRating",
+          "categoryType": "CLEANLINESS",
+          "localizedRating": "4.6",
+          "label": "Cleanliness",
+          "accessibilityLabel": "Rated 4.6 out of 5 stars for cleanliness",
+          "percentage": 0.9199999999999999
+         },
+         {
+          "__typename": "CategoryRating",
+          "categoryType": "ACCURACY",
+          "localizedRating": "4.8",
+          "label": "Accuracy",
+          "accessibilityLabel": "Rated 4.8 out of 5 stars for accuracy",
+          "percentage": 0.96
+         },
+         {
+          "__typename": "CategoryRating",
+          "categoryType": "CHECKIN",
+          "localizedRating": "5.0",
+          "label": "Check-in",
+          "accessibilityLabel": "Rated 5.0 out of 5 stars for check-in",
+          "percentage": 1
+         },
+         {
+          "__typename": "CategoryRating",
+          "categoryType": "COMMUNICATION",
+          "localizedRating": "5.0",
+          "label": "Communication",
+          "accessibilityLabel": "Rated 5.0 out of 5 stars for communication",
+          "percentage": 1
+         },
+         {
+          "__typename": "CategoryRating",
+          "categoryType": "LOCATION",
+          "localizedRating": "4.8",
+          "label": "Location",
+          "accessibilityLabel": "Rated 4.8 out of 5 stars for location",
+          "percentage": 0.96
+         },
+         {
+          "__typename": "CategoryRating",
+          "categoryType": "VALUE",
+          "localizedRating": "4.9",
+          "label": "Value",
+          "accessibilityLabel": "Rated 4.9 out of 5 stars for value",
+          "percentage": 0.9800000000000001
+         }
+        ],
+        "ratingDistribution": [
+         {
+          "__typename": "CategoryRating",
+          "label": "5",
+          "localizedRating": "90%",
+          "percentage": 0.9,
+          "accessibilityLabel": "5 stars, 90% of reviews"
+         },
+         {
+          "__typename": "CategoryRating",
+          "label": "4",
+          "localizedRating": "9%",
+          "percentage": 0.09,
+          "accessibilityLabel": "4 stars, 9% of reviews"
+         },
+         {
+          "__typename": "CategoryRating",
+          "label": "3",
+          "localizedRating": "1%",
+          "percentage": 0.01,
+          "accessibilityLabel": "3 stars, 1% of reviews"
+         },
+         {
+          "__typename": "CategoryRating",
+          "label": "2",
+          "localizedRating": "0%",
+          "percentage": 0.0,
+          "accessibilityLabel": "2 stars, 0% of reviews"
+         },
+         {
+          "__typename": "CategoryRating",
+          "label": "1",
+          "localizedRating": "0%",
+          "percentage": 0.0,
+          "accessibilityLabel": "1 stars, 0% of reviews"
+         }
+        ]
+       },
+       "hostInfo": {
+        "passportData": {
+         "ratingCount": 500,
+         "ratingAverage": 4.85
+        }
+       }
+      }
+     }
+    }
+   }
+  ]
+ ]
+}

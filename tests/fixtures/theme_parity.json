@@ -1,0 +1,308 @@
+[
+ {
+  "text": "Great stay overall. Only issue: the bathroom was dirty.",
+  "themes": [
+   "cleanliness"
+  ]
+ },
+ {
+  "text": "Lovely place and a great location. Only issue: sheets were stained.",
+  "themes": [
+   "cleanliness"
+  ]
+ },
+ {
+  "text": "Would stay again. Only issue: kitchen felt grimy.",
+  "themes": [
+   "cleanliness"
+  ]
+ },
+ {
+  "text": "Check-in was easy. Only issue: there was hair in the shower.",
+  "themes": [
+   "cleanliness"
+  ]
+ },
+ {
+  "text": "Great stay overall. Only issue: we found a cockroach.",
+  "themes": [
+   "pests"
+  ]
+ },
+ {
+  "text": "Lovely place and a great location. Only issue: saw mice in the garage.",
+  "themes": [
+   "pests"
+  ]
+ },
+ {
+  "text": "Would stay again. Only issue: ants in the kitchen.",
+  "themes": [
+   "pests"
+  ]
+ },
+ {
+  "text": "Check-in was easy. Only issue: possible bed bugs.",
+  "themes": [
+   "pests"
+  ]
+ },
+ {
+  "text": "Great stay overall. Only issue: a musty smell in the bedroom.",
+  "themes": [
+   "smell"
+  ]
+ },
+ {
+  "text": "Lovely place and a great location. Only issue: it smelled like smoke.",
+  "themes": [
+   "smell"
+  ]
+ },
+ {
+  "text": "Would stay again. Only issue: strong pet odor.",
+  "themes": [
+   "smell"
+  ]
+ },
+ {
+  "text": "Check-in was easy. Only issue: the couch stank.",
+  "themes": [
+   "smell"
+  ]
+ },
+ {
+  "text": "Great stay overall. Only issue: the street noise was bad.",
+  "themes": [
+   "noise"
+  ]
+ },
+ {
+  "text": "Lovely place and a great location. Only issue: thin walls between units.",
+  "themes": [
+   "noise"
+  ]
+ },
+ {
+  "text": "Would stay again. Only issue: it was very loud at night.",
+  "themes": [
+   "noise"
+  ]
+ },
+ {
+  "text": "Check-in was easy. Only issue: could not sleep because of the bar.",
+  "themes": [
+   "noise"
+  ]
+ },
+ {
+  "text": "Great stay overall. Only issue: not as pictured at all.",
+  "themes": [
+   "accuracy"
+  ]
+ },
+ {
+  "text": "Lovely place and a great location. Only issue: the photos were outdated.",
+  "themes": [
+   "accuracy"
+  ]
+ },
+ {
+  "text": "Would stay again. Only issue: smaller than the pictures.",
+  "themes": [
+   "accuracy"
+  ]
+ },
+ {
+  "text": "Check-in was easy. Only issue: nothing like the listing.",
+  "themes": [
+   "accuracy"
+  ]
+ },
+ {
+  "text": "Great stay overall. Only issue: the dishwasher was broken.",
+  "themes": [
+   "maintenance"
+  ]
+ },
+ {
+  "text": "Lovely place and a great location. Only issue: the shower was leaking.",
+  "themes": [
+   "maintenance"
+  ]
+ },
+ {
+  "text": "Would stay again. Only issue: the TV did not work.",
+  "themes": [
+   "maintenance"
+  ]
+ },
+ {
+  "text": "Check-in was easy. Only issue: the sink was clogged.",
+  "themes": [
+   "maintenance"
+  ]
+ },
+ {
+  "text": "Great stay overall. Only issue: no AC in July.",
+  "themes": [
+   "temperature"
+  ]
+ },
+ {
+  "text": "Lovely place and a great location. Only issue: the heater was broken.",
+  "themes": [
+   "maintenance",
+   "temperature"
+  ]
+ },
+ {
+  "text": "Would stay again. Only issue: too cold to sleep.",
+  "themes": [
+   "temperature"
+  ]
+ },
+ {
+  "text": "Check-in was easy. Only issue: freezing inside all night.",
+  "themes": [
+   "temperature"
+  ]
+ },
+ {
+  "text": "Great stay overall. Only issue: did not feel safe walking back.",
+  "themes": [
+   "safety"
+  ]
+ },
+ {
+  "text": "Lovely place and a great location. Only issue: the area felt sketchy.",
+  "themes": [
+   "safety"
+  ]
+ },
+ {
+  "text": "Would stay again. Only issue: our car was broken into.",
+  "themes": [
+   "maintenance",
+   "safety"
+  ]
+ },
+ {
+  "text": "Check-in was easy. Only issue: a bike was stolen.",
+  "themes": [
+   "safety"
+  ]
+ },
+ {
+  "text": "Great stay overall. Only issue: the host never responded.",
+  "themes": [
+   "host"
+  ]
+ },
+ {
+  "text": "Lovely place and a great location. Only issue: the host was rude.",
+  "themes": [
+   "host"
+  ]
+ },
+ {
+  "text": "Would stay again. Only issue: messages were unresponsive.",
+  "themes": [
+   "host"
+  ]
+ },
+ {
+  "text": "Check-in was easy. Only issue: they cancelled on us.",
+  "themes": [
+   "host"
+  ]
+ },
+ {
+  "text": "Great stay overall. Only issue: so many chores at checkout.",
+  "themes": [
+   "chores"
+  ]
+ },
+ {
+  "text": "Lovely place and a great location. Only issue: we had to strip the beds.",
+  "themes": [
+   "chores"
+  ]
+ },
+ {
+  "text": "Would stay again. Only issue: a long checkout list.",
+  "themes": [
+   "chores"
+  ]
+ },
+ {
+  "text": "Check-in was easy. Only issue: we had to take out the trash.",
+  "themes": [
+   "chores"
+  ]
+ },
+ {
+  "text": "The street noise was bad, and the shower was leaking.",
+  "themes": [
+   "maintenance",
+   "noise"
+  ]
+ },
+ {
+  "text": "We found a cockroach, and sheets were stained.",
+  "themes": [
+   "cleanliness",
+   "pests"
+  ]
+ },
+ {
+  "text": "A musty smell in the bedroom, and the photos were outdated.",
+  "themes": [
+   "accuracy",
+   "smell"
+  ]
+ },
+ {
+  "text": "No ac in july, and the host was rude.",
+  "themes": [
+   "host",
+   "temperature"
+  ]
+ },
+ {
+  "text": "Great stay overall. No stains anywhere.",
+  "themes": []
+ },
+ {
+  "text": "Lovely place and a great location. Not noisy at all.",
+  "themes": []
+ },
+ {
+  "text": "Would stay again. Never felt unsafe.",
+  "themes": []
+ },
+ {
+  "text": "Check-in was easy. Nothing was broken.",
+  "themes": []
+ },
+ {
+  "text": "Great stay overall. Without any smell.",
+  "themes": []
+ },
+ {
+  "text": "Great stay overall.",
+  "themes": []
+ },
+ {
+  "text": "Lovely place and a great location.",
+  "themes": []
+ },
+ {
+  "text": "Would stay again.",
+  "themes": []
+ },
+ {
+  "text": "Check-in was easy.",
+  "themes": []
+ }
+]

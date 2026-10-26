@@ -1,0 +1,2450 @@
+[
+ {
+  "market": "ca_los-angeles",
+  "lat": 34.04,
+  "lng": -118.18,
+  "overall": 5.0,
+  "count": 40,
+  "adjusted": 4.9563,
+  "percentile": 0.9631
+ },
+ {
+  "market": "ca_los-angeles",
+  "lat": 34.15,
+  "lng": -118.13,
+  "overall": 4.9,
+  "count": 400,
+  "adjusted": 4.8971,
+  "percentile": 0.7997
+ },
+ {
+  "market": "ca_los-angeles",
+  "lat": 34.19,
+  "lng": -118.44,
+  "overall": 4.9,
+  "count": 150,
+  "adjusted": 4.8926,
+  "percentile": 0.7837
+ },
+ {
+  "market": "ca_los-angeles",
+  "lat": 34.07,
+  "lng": -118.31,
+  "overall": 4.95,
+  "count": 3,
+  "adjusted": 4.8205,
+  "percentile": 0.4999
+ },
+ {
+  "market": "ca_los-angeles",
+  "lat": 34.06,
+  "lng": -118.37,
+  "overall": 4.5,
+  "count": 3,
+  "adjusted": 4.7167,
+  "percentile": 0.1861
+ },
+ {
+  "market": "ca_los-angeles",
+  "lat": 34.05,
+  "lng": -118.43,
+  "overall": 4.7,
+  "count": 400,
+  "adjusted": 4.702,
+  "percentile": 0.1636
+ },
+ {
+  "market": "ca_los-angeles",
+  "lat": 33.84,
+  "lng": -118.27,
+  "overall": 5.0,
+  "count": 1,
+  "adjusted": 4.8015,
+  "percentile": 0.3728
+ },
+ {
+  "market": "ca_los-angeles",
+  "lat": 34.12,
+  "lng": -118.35,
+  "overall": 4.85,
+  "count": 150,
+  "adjusted": 4.8457,
+  "percentile": 0.6081
+ },
+ {
+  "market": "ca_oakland",
+  "lat": 37.84,
+  "lng": -122.26,
+  "overall": 4.5,
+  "count": 150,
+  "adjusted": 4.5192,
+  "percentile": 0.0304
+ },
+ {
+  "market": "ca_oakland",
+  "lat": 37.85,
+  "lng": -122.28,
+  "overall": 4.5,
+  "count": 12,
+  "adjusted": 4.6395,
+  "percentile": 0.0905
+ },
+ {
+  "market": "ca_oakland",
+  "lat": 37.79,
+  "lng": -122.18,
+  "overall": 4.95,
+  "count": 3,
+  "adjusted": 4.8399,
+  "percentile": 0.4817
+ },
+ {
+  "market": "ca_oakland",
+  "lat": 37.78,
+  "lng": -122.16,
+  "overall": 4.8,
+  "count": 3,
+  "adjusted": 4.8053,
+  "percentile": 0.3044
+ },
+ {
+  "market": "ca_oakland",
+  "lat": 37.84,
+  "lng": -122.28,
+  "overall": 4.95,
+  "count": 3,
+  "adjusted": 4.8399,
+  "percentile": 0.4817
+ },
+ {
+  "market": "ca_oakland",
+  "lat": 37.81,
+  "lng": -122.21,
+  "overall": 5.0,
+  "count": 12,
+  "adjusted": 4.9122,
+  "percentile": 0.7983
+ },
+ {
+  "market": "ca_oakland",
+  "lat": 37.83,
+  "lng": -122.27,
+  "overall": 4.85,
+  "count": 40,
+  "adjusted": 4.8414,
+  "percentile": 0.4834
+ },
+ {
+  "market": "ca_oakland",
+  "lat": 37.84,
+  "lng": -122.29,
+  "overall": 4.9,
+  "count": 40,
+  "adjusted": 4.8814,
+  "percentile": 0.6563
+ },
+ {
+  "market": "ca_pacific-grove",
+  "lat": 36.63,
+  "lng": -121.92,
+  "overall": 4.85,
+  "count": 400,
+  "adjusted": 4.8496,
+  "percentile": 0.36
+ },
+ {
+  "market": "ca_pacific-grove",
+  "lat": 36.62,
+  "lng": -121.91,
+  "overall": 4.95,
+  "count": 150,
+  "adjusted": 4.9428,
+  "percentile": 0.8667
+ },
+ {
+  "market": "ca_pacific-grove",
+  "lat": 36.62,
+  "lng": -121.92,
+  "overall": 4.9,
+  "count": 40,
+  "adjusted": 4.887,
+  "percentile": 0.5778
+ },
+ {
+  "market": "ca_pacific-grove",
+  "lat": 36.62,
+  "lng": -121.93,
+  "overall": 4.8,
+  "count": 400,
+  "adjusted": 4.8008,
+  "percentile": 0.2089
+ },
+ {
+  "market": "ca_pacific-grove",
+  "lat": 36.62,
+  "lng": -121.92,
+  "overall": 4.85,
+  "count": 3,
+  "adjusted": 4.8383,
+  "percentile": 0.3289
+ },
+ {
+  "market": "ca_pacific-grove",
+  "lat": 36.62,
+  "lng": -121.93,
+  "overall": 4.95,
+  "count": 1,
+  "adjusted": 4.8453,
+  "percentile": 0.3422
+ },
+ {
+  "market": "ca_pacific-grove",
+  "lat": 36.62,
+  "lng": -121.92,
+  "overall": 5.0,
+  "count": 40,
+  "adjusted": 4.967,
+  "percentile": 0.9333
+ },
+ {
+  "market": "ca_pacific-grove",
+  "lat": 36.63,
+  "lng": -121.93,
+  "overall": 4.5,
+  "count": 1,
+  "adjusted": 4.8044,
+  "percentile": 0.2178
+ },
+ {
+  "market": "ca_san-diego",
+  "lat": 32.8,
+  "lng": -117.25,
+  "overall": 4.85,
+  "count": 1,
+  "adjusted": 4.8167,
+  "percentile": 0.3221
+ },
+ {
+  "market": "ca_san-diego",
+  "lat": 32.61,
+  "lng": -117.0,
+  "overall": 4.5,
+  "count": 40,
+  "adjusted": 4.5627,
+  "percentile": 0.0394
+ },
+ {
+  "market": "ca_san-diego",
+  "lat": 32.77,
+  "lng": -117.12,
+  "overall": 5.0,
+  "count": 12,
+  "adjusted": 4.9152,
+  "percentile": 0.7754
+ },
+ {
+  "market": "ca_san-diego",
+  "lat": 32.72,
+  "lng": -117.16,
+  "overall": 4.95,
+  "count": 400,
+  "adjusted": 4.9467,
+  "percentile": 0.8958
+ },
+ {
+  "market": "ca_san-diego",
+  "lat": 32.77,
+  "lng": -117.24,
+  "overall": 4.95,
+  "count": 40,
+  "adjusted": 4.9227,
+  "percentile": 0.81
+ },
+ {
+  "market": "ca_san-diego",
+  "lat": 32.8,
+  "lng": -117.26,
+  "overall": 4.85,
+  "count": 40,
+  "adjusted": 4.8427,
+  "percentile": 0.4399
+ },
+ {
+  "market": "ca_san-diego",
+  "lat": 32.71,
+  "lng": -117.16,
+  "overall": 4.7,
+  "count": 12,
+  "adjusted": 4.7515,
+  "percentile": 0.1936
+ },
+ {
+  "market": "ca_san-diego",
+  "lat": 32.98,
+  "lng": -117.13,
+  "overall": 4.8,
+  "count": 3,
+  "adjusted": 4.8103,
+  "percentile": 0.3117
+ },
+ {
+  "market": "ca_san-francisco",
+  "lat": 37.78,
+  "lng": -122.48,
+  "overall": 5.0,
+  "count": 1,
+  "adjusted": 4.8176,
+  "percentile": 0.3674
+ },
+ {
+  "market": "ca_san-francisco",
+  "lat": 37.75,
+  "lng": -122.41,
+  "overall": 4.5,
+  "count": 3,
+  "adjusted": 4.7303,
+  "percentile": 0.1799
+ },
+ {
+  "market": "ca_san-francisco",
+  "lat": 37.77,
+  "lng": -122.44,
+  "overall": 5.0,
+  "count": 150,
+  "adjusted": 4.9875,
+  "percentile": 0.999
+ },
+ {
+  "market": "ca_san-francisco",
+  "lat": 37.75,
+  "lng": -122.47,
+  "overall": 5.0,
+  "count": 3,
+  "adjusted": 4.8457,
+  "percentile": 0.524
+ },
+ {
+  "market": "ca_san-francisco",
+  "lat": 37.76,
+  "lng": -122.43,
+  "overall": 4.95,
+  "count": 12,
+  "adjusted": 4.8815,
+  "percentile": 0.6817
+ },
+ {
+  "market": "ca_san-francisco",
+  "lat": 37.76,
+  "lng": -122.43,
+  "overall": 4.85,
+  "count": 1,
+  "adjusted": 4.804,
+  "percentile": 0.3049
+ },
+ {
+  "market": "ca_san-francisco",
+  "lat": 37.79,
+  "lng": -122.44,
+  "overall": 4.9,
+  "count": 150,
+  "adjusted": 4.8937,
+  "percentile": 0.7342
+ },
+ {
+  "market": "ca_san-francisco",
+  "lat": 37.78,
+  "lng": -122.41,
+  "overall": 4.9,
+  "count": 1,
+  "adjusted": 4.8085,
+  "percentile": 0.3083
+ },
+ {
+  "market": "ca_san-mateo-county",
+  "lat": 37.65,
+  "lng": -122.41,
+  "overall": 4.85,
+  "count": 3,
+  "adjusted": 4.7857,
+  "percentile": 0.3001
+ },
+ {
+  "market": "ca_san-mateo-county",
+  "lat": 37.57,
+  "lng": -122.31,
+  "overall": 5.0,
+  "count": 400,
+  "adjusted": 4.9943,
+  "percentile": 0.9996
+ },
+ {
+  "market": "ca_san-mateo-county",
+  "lat": 37.69,
+  "lng": -122.49,
+  "overall": 4.7,
+  "count": 40,
+  "adjusted": 4.7133,
+  "percentile": 0.1863
+ },
+ {
+  "market": "ca_san-mateo-county",
+  "lat": 37.68,
+  "lng": -122.41,
+  "overall": 5.0,
+  "count": 400,
+  "adjusted": 4.9943,
+  "percentile": 0.9996
+ },
+ {
+  "market": "ca_san-mateo-county",
+  "lat": 37.49,
+  "lng": -122.18,
+  "overall": 4.9,
+  "count": 40,
+  "adjusted": 4.8733,
+  "percentile": 0.6818
+ },
+ {
+  "market": "ca_san-mateo-county",
+  "lat": 37.49,
+  "lng": -122.46,
+  "overall": 4.5,
+  "count": 150,
+  "adjusted": 4.5167,
+  "percentile": 0.0484
+ },
+ {
+  "market": "ca_san-mateo-county",
+  "lat": 37.57,
+  "lng": -122.32,
+  "overall": 4.85,
+  "count": 1,
+  "adjusted": 4.774,
+  "percentile": 0.2794
+ },
+ {
+  "market": "ca_san-mateo-county",
+  "lat": 37.59,
+  "lng": -122.38,
+  "overall": 4.7,
+  "count": 40,
+  "adjusted": 4.7133,
+  "percentile": 0.1863
+ },
+ {
+  "market": "ca_santa-clara-county",
+  "lat": 37.26,
+  "lng": -121.81,
+  "overall": 4.95,
+  "count": 40,
+  "adjusted": 4.9145,
+  "percentile": 0.859
+ },
+ {
+  "market": "ca_santa-clara-county",
+  "lat": 37.29,
+  "lng": -121.99,
+  "overall": 4.9,
+  "count": 400,
+  "adjusted": 4.8969,
+  "percentile": 0.7994
+ },
+ {
+  "market": "ca_santa-clara-county",
+  "lat": 37.26,
+  "lng": -121.92,
+  "overall": 4.9,
+  "count": 12,
+  "adjusted": 4.842,
+  "percentile": 0.6009
+ },
+ {
+  "market": "ca_santa-clara-county",
+  "lat": 37.41,
+  "lng": -122.13,
+  "overall": 4.9,
+  "count": 40,
+  "adjusted": 4.8745,
+  "percentile": 0.7226
+ },
+ {
+  "market": "ca_santa-clara-county",
+  "lat": 37.23,
+  "lng": -121.98,
+  "overall": 4.5,
+  "count": 1,
+  "adjusted": 4.7477,
+  "percentile": 0.2432
+ },
+ {
+  "market": "ca_santa-clara-county",
+  "lat": 37.37,
+  "lng": -121.97,
+  "overall": 4.9,
+  "count": 12,
+  "adjusted": 4.842,
+  "percentile": 0.6009
+ },
+ {
+  "market": "ca_santa-clara-county",
+  "lat": 37.36,
+  "lng": -122.01,
+  "overall": 4.9,
+  "count": 3,
+  "adjusted": 4.8019,
+  "percentile": 0.425
+ },
+ {
+  "market": "ca_santa-clara-county",
+  "lat": 37.34,
+  "lng": -121.86,
+  "overall": 4.7,
+  "count": 1,
+  "adjusted": 4.7659,
+  "percentile": 0.2731
+ },
+ {
+  "market": "ca_santa-cruz-county",
+  "lat": 36.98,
+  "lng": -121.94,
+  "overall": 4.8,
+  "count": 150,
+  "adjusted": 4.802,
+  "percentile": 0.246
+ },
+ {
+  "market": "ca_santa-cruz-county",
+  "lat": 36.99,
+  "lng": -121.9,
+  "overall": 4.8,
+  "count": 12,
+  "adjusted": 4.8144,
+  "percentile": 0.2775
+ },
+ {
+  "market": "ca_santa-cruz-county",
+  "lat": 36.95,
+  "lng": -122.05,
+  "overall": 4.9,
+  "count": 400,
+  "adjusted": 4.8983,
+  "percentile": 0.6354
+ },
+ {
+  "market": "ca_santa-cruz-county",
+  "lat": 36.97,
+  "lng": -121.91,
+  "overall": 4.8,
+  "count": 40,
+  "adjusted": 4.8063,
+  "percentile": 0.2531
+ },
+ {
+  "market": "ca_santa-cruz-county",
+  "lat": 36.99,
+  "lng": -122.02,
+  "overall": 4.85,
+  "count": 40,
+  "adjusted": 4.8463,
+  "percentile": 0.3701
+ },
+ {
+  "market": "ca_santa-cruz-county",
+  "lat": 36.98,
+  "lng": -122.01,
+  "overall": 4.85,
+  "count": 40,
+  "adjusted": 4.8463,
+  "percentile": 0.3701
+ },
+ {
+  "market": "ca_santa-cruz-county",
+  "lat": 36.97,
+  "lng": -121.95,
+  "overall": 4.85,
+  "count": 150,
+  "adjusted": 4.8489,
+  "percentile": 0.4111
+ },
+ {
+  "market": "ca_santa-cruz-county",
+  "lat": 36.98,
+  "lng": -121.92,
+  "overall": 5.0,
+  "count": 1,
+  "adjusted": 4.847,
+  "percentile": 0.3872
+ },
+ {
+  "market": "co_denver",
+  "lat": 39.76,
+  "lng": -105.02,
+  "overall": 4.85,
+  "count": 12,
+  "adjusted": 4.8555,
+  "percentile": 0.2773
+ },
+ {
+  "market": "co_denver",
+  "lat": 39.74,
+  "lng": -104.95,
+  "overall": 4.8,
+  "count": 3,
+  "adjusted": 4.8477,
+  "percentile": 0.2542
+ },
+ {
+  "market": "co_denver",
+  "lat": 39.76,
+  "lng": -105.0,
+  "overall": 4.5,
+  "count": 12,
+  "adjusted": 4.6646,
+  "percentile": 0.0456
+ },
+ {
+  "market": "co_denver",
+  "lat": 39.74,
+  "lng": -105.05,
+  "overall": 4.95,
+  "count": 1,
+  "adjusted": 4.8701,
+  "percentile": 0.315
+ },
+ {
+  "market": "co_denver",
+  "lat": 39.75,
+  "lng": -104.99,
+  "overall": 4.8,
+  "count": 400,
+  "adjusted": 4.8015,
+  "percentile": 0.1618
+ },
+ {
+  "market": "co_denver",
+  "lat": 39.71,
+  "lng": -104.99,
+  "overall": 5.0,
+  "count": 3,
+  "adjusted": 4.8939,
+  "percentile": 0.4909
+ },
+ {
+  "market": "co_denver",
+  "lat": 39.75,
+  "lng": -105.0,
+  "overall": 4.5,
+  "count": 150,
+  "adjusted": 4.5226,
+  "percentile": 0.0097
+ },
+ {
+  "market": "co_denver",
+  "lat": 39.74,
+  "lng": -104.89,
+  "overall": 4.5,
+  "count": 3,
+  "adjusted": 4.7785,
+  "percentile": 0.1266
+ },
+ {
+  "market": "dc_washington-dc",
+  "lat": 38.89,
+  "lng": -76.98,
+  "overall": 4.85,
+  "count": 400,
+  "adjusted": 4.8478,
+  "percentile": 0.638
+ },
+ {
+  "market": "dc_washington-dc",
+  "lat": 38.93,
+  "lng": -77.03,
+  "overall": 4.5,
+  "count": 40,
+  "adjusted": 4.5518,
+  "percentile": 0.0739
+ },
+ {
+  "market": "dc_washington-dc",
+  "lat": 38.92,
+  "lng": -77.04,
+  "overall": 4.85,
+  "count": 1,
+  "adjusted": 4.7672,
+  "percentile": 0.335
+ },
+ {
+  "market": "dc_washington-dc",
+  "lat": 38.91,
+  "lng": -77.05,
+  "overall": 4.95,
+  "count": 400,
+  "adjusted": 4.9453,
+  "percentile": 0.929
+ },
+ {
+  "market": "dc_washington-dc",
+  "lat": 38.91,
+  "lng": -77.02,
+  "overall": 4.85,
+  "count": 400,
+  "adjusted": 4.8478,
+  "percentile": 0.638
+ },
+ {
+  "market": "dc_washington-dc",
+  "lat": 38.93,
+  "lng": -77.03,
+  "overall": 4.9,
+  "count": 400,
+  "adjusted": 4.8966,
+  "percentile": 0.7867
+ },
+ {
+  "market": "dc_washington-dc",
+  "lat": 38.9,
+  "lng": -76.98,
+  "overall": 5.0,
+  "count": 40,
+  "adjusted": 4.9518,
+  "percentile": 0.9437
+ },
+ {
+  "market": "dc_washington-dc",
+  "lat": 38.91,
+  "lng": -77.04,
+  "overall": 4.7,
+  "count": 1,
+  "adjusted": 4.7536,
+  "percentile": 0.3089
+ },
+ {
+  "market": "fl_broward-county",
+  "lat": 25.98,
+  "lng": -80.2,
+  "overall": 4.85,
+  "count": 3,
+  "adjusted": 4.7516,
+  "percentile": 0.4295
+ },
+ {
+  "market": "fl_broward-county",
+  "lat": 26.02,
+  "lng": -80.12,
+  "overall": 4.95,
+  "count": 400,
+  "adjusted": 4.9444,
+  "percentile": 0.9666
+ },
+ {
+  "market": "fl_broward-county",
+  "lat": 25.98,
+  "lng": -80.19,
+  "overall": 4.7,
+  "count": 40,
+  "adjusted": 4.7044,
+  "percentile": 0.2785
+ },
+ {
+  "market": "fl_broward-county",
+  "lat": 26.24,
+  "lng": -80.09,
+  "overall": 4.5,
+  "count": 3,
+  "adjusted": 4.6708,
+  "percentile": 0.2226
+ },
+ {
+  "market": "fl_broward-county",
+  "lat": 26.12,
+  "lng": -80.11,
+  "overall": 4.8,
+  "count": 400,
+  "adjusted": 4.7981,
+  "percentile": 0.5747
+ },
+ {
+  "market": "fl_broward-county",
+  "lat": 26.11,
+  "lng": -80.15,
+  "overall": 5.0,
+  "count": 40,
+  "adjusted": 4.9444,
+  "percentile": 0.9666
+ },
+ {
+  "market": "fl_broward-county",
+  "lat": 26.32,
+  "lng": -80.09,
+  "overall": 4.9,
+  "count": 40,
+  "adjusted": 4.8644,
+  "percentile": 0.7807
+ },
+ {
+  "market": "fl_broward-county",
+  "lat": 26.25,
+  "lng": -80.09,
+  "overall": 4.5,
+  "count": 12,
+  "adjusted": 4.6009,
+  "percentile": 0.1349
+ },
+ {
+  "market": "hi_hawaii",
+  "lat": 20.95,
+  "lng": -156.69,
+  "overall": 5.0,
+  "count": 12,
+  "adjusted": 4.905,
+  "percentile": 0.824
+ },
+ {
+  "market": "hi_hawaii",
+  "lat": 20.69,
+  "lng": -156.44,
+  "overall": 4.7,
+  "count": 3,
+  "adjusted": 4.77,
+  "percentile": 0.2698
+ },
+ {
+  "market": "hi_hawaii",
+  "lat": 21.28,
+  "lng": -157.83,
+  "overall": 4.9,
+  "count": 1,
+  "adjusted": 4.8009,
+  "percentile": 0.3377
+ },
+ {
+  "market": "hi_hawaii",
+  "lat": 20.96,
+  "lng": -156.68,
+  "overall": 5.0,
+  "count": 400,
+  "adjusted": 4.9949,
+  "percentile": 0.9999
+ },
+ {
+  "market": "hi_hawaii",
+  "lat": 20.92,
+  "lng": -156.69,
+  "overall": 4.85,
+  "count": 12,
+  "adjusted": 4.8232,
+  "percentile": 0.4638
+ },
+ {
+  "market": "hi_hawaii",
+  "lat": 21.28,
+  "lng": -157.83,
+  "overall": 4.95,
+  "count": 40,
+  "adjusted": 4.9182,
+  "percentile": 0.8654
+ },
+ {
+  "market": "hi_hawaii",
+  "lat": 22.22,
+  "lng": -159.48,
+  "overall": 4.85,
+  "count": 3,
+  "adjusted": 4.8046,
+  "percentile": 0.3397
+ },
+ {
+  "market": "hi_hawaii",
+  "lat": 22.22,
+  "lng": -159.49,
+  "overall": 4.85,
+  "count": 150,
+  "adjusted": 4.8463,
+  "percentile": 0.5985
+ },
+ {
+  "market": "il_chicago",
+  "lat": 41.9,
+  "lng": -87.63,
+  "overall": 4.5,
+  "count": 1,
+  "adjusted": 4.7443,
+  "percentile": 0.2655
+ },
+ {
+  "market": "il_chicago",
+  "lat": 41.91,
+  "lng": -87.67,
+  "overall": 4.95,
+  "count": 12,
+  "adjusted": 4.8676,
+  "percentile": 0.7039
+ },
+ {
+  "market": "il_chicago",
+  "lat": 41.76,
+  "lng": -87.57,
+  "overall": 4.95,
+  "count": 1,
+  "adjusted": 4.7852,
+  "percentile": 0.3514
+ },
+ {
+  "market": "il_chicago",
+  "lat": 41.91,
+  "lng": -87.68,
+  "overall": 5.0,
+  "count": 1,
+  "adjusted": 4.7897,
+  "percentile": 0.393
+ },
+ {
+  "market": "il_chicago",
+  "lat": 41.89,
+  "lng": -87.63,
+  "overall": 4.8,
+  "count": 400,
+  "adjusted": 4.7992,
+  "percentile": 0.4388
+ },
+ {
+  "market": "il_chicago",
+  "lat": 41.93,
+  "lng": -87.7,
+  "overall": 4.5,
+  "count": 40,
+  "adjusted": 4.5537,
+  "percentile": 0.0663
+ },
+ {
+  "market": "il_chicago",
+  "lat": 41.9,
+  "lng": -87.67,
+  "overall": 4.95,
+  "count": 12,
+  "adjusted": 4.8676,
+  "percentile": 0.7039
+ },
+ {
+  "market": "il_chicago",
+  "lat": 41.89,
+  "lng": -87.62,
+  "overall": 4.5,
+  "count": 40,
+  "adjusted": 4.5537,
+  "percentile": 0.0663
+ },
+ {
+  "market": "la_new-orleans",
+  "lat": 29.96,
+  "lng": -90.04,
+  "overall": 4.85,
+  "count": 400,
+  "adjusted": 4.8483,
+  "percentile": 0.5613
+ },
+ {
+  "market": "la_new-orleans",
+  "lat": 29.95,
+  "lng": -90.07,
+  "overall": 4.9,
+  "count": 12,
+  "adjusted": 4.8457,
+  "percentile": 0.5532
+ },
+ {
+  "market": "la_new-orleans",
+  "lat": 29.95,
+  "lng": -90.08,
+  "overall": 4.5,
+  "count": 40,
+  "adjusted": 4.5561,
+  "percentile": 0.0757
+ },
+ {
+  "market": "la_new-orleans",
+  "lat": 29.97,
+  "lng": -90.08,
+  "overall": 4.7,
+  "count": 150,
+  "adjusted": 4.705,
+  "percentile": 0.1897
+ },
+ {
+  "market": "la_new-orleans",
+  "lat": 29.97,
+  "lng": -90.06,
+  "overall": 5.0,
+  "count": 12,
+  "adjusted": 4.9002,
+  "percentile": 0.7417
+ },
+ {
+  "market": "la_new-orleans",
+  "lat": 29.95,
+  "lng": -90.07,
+  "overall": 5.0,
+  "count": 40,
+  "adjusted": 4.9561,
+  "percentile": 0.9367
+ },
+ {
+  "market": "la_new-orleans",
+  "lat": 29.97,
+  "lng": -90.04,
+  "overall": 4.85,
+  "count": 150,
+  "adjusted": 4.8457,
+  "percentile": 0.5532
+ },
+ {
+  "market": "la_new-orleans",
+  "lat": 29.93,
+  "lng": -90.07,
+  "overall": 4.95,
+  "count": 400,
+  "adjusted": 4.9459,
+  "percentile": 0.9072
+ },
+ {
+  "market": "ma_boston",
+  "lat": 42.31,
+  "lng": -71.11,
+  "overall": 5.0,
+  "count": 1,
+  "adjusted": 4.7754,
+  "percentile": 0.4219
+ },
+ {
+  "market": "ma_boston",
+  "lat": 42.29,
+  "lng": -71.07,
+  "overall": 4.8,
+  "count": 400,
+  "adjusted": 4.7989,
+  "percentile": 0.5518
+ },
+ {
+  "market": "ma_boston",
+  "lat": 42.26,
+  "lng": -71.16,
+  "overall": 4.8,
+  "count": 1,
+  "adjusted": 4.7572,
+  "percentile": 0.354
+ },
+ {
+  "market": "ma_boston",
+  "lat": 42.3,
+  "lng": -71.11,
+  "overall": 4.9,
+  "count": 150,
+  "adjusted": 4.8908,
+  "percentile": 0.8407
+ },
+ {
+  "market": "ma_boston",
+  "lat": 42.32,
+  "lng": -71.06,
+  "overall": 4.95,
+  "count": 150,
+  "adjusted": 4.9377,
+  "percentile": 0.9392
+ },
+ {
+  "market": "ma_boston",
+  "lat": 42.38,
+  "lng": -71.0,
+  "overall": 4.9,
+  "count": 1,
+  "adjusted": 4.7663,
+  "percentile": 0.373
+ },
+ {
+  "market": "ma_boston",
+  "lat": 42.36,
+  "lng": -71.07,
+  "overall": 4.95,
+  "count": 12,
+  "adjusted": 4.8604,
+  "percentile": 0.7552
+ },
+ {
+  "market": "ma_boston",
+  "lat": 42.35,
+  "lng": -71.13,
+  "overall": 4.95,
+  "count": 150,
+  "adjusted": 4.9377,
+  "percentile": 0.9392
+ },
+ {
+  "market": "ma_cambridge",
+  "lat": 42.36,
+  "lng": -71.08,
+  "overall": 5.0,
+  "count": 1,
+  "adjusted": 4.806,
+  "percentile": 0.4323
+ },
+ {
+  "market": "ma_cambridge",
+  "lat": 42.39,
+  "lng": -71.13,
+  "overall": 5.0,
+  "count": 40,
+  "adjusted": 4.9573,
+  "percentile": 0.9596
+ },
+ {
+  "market": "ma_cambridge",
+  "lat": 42.37,
+  "lng": -71.08,
+  "overall": 4.85,
+  "count": 150,
+  "adjusted": 4.846,
+  "percentile": 0.6195
+ },
+ {
+  "market": "ma_cambridge",
+  "lat": 42.38,
+  "lng": -71.12,
+  "overall": 5.0,
+  "count": 40,
+  "adjusted": 4.9573,
+  "percentile": 0.9596
+ },
+ {
+  "market": "ma_cambridge",
+  "lat": 42.39,
+  "lng": -71.13,
+  "overall": 4.5,
+  "count": 150,
+  "adjusted": 4.5179,
+  "percentile": 0.0448
+ },
+ {
+  "market": "ma_cambridge",
+  "lat": 42.37,
+  "lng": -71.09,
+  "overall": 4.7,
+  "count": 3,
+  "adjusted": 4.7666,
+  "percentile": 0.3062
+ },
+ {
+  "market": "ma_cambridge",
+  "lat": 42.37,
+  "lng": -71.08,
+  "overall": 4.7,
+  "count": 3,
+  "adjusted": 4.7666,
+  "percentile": 0.3062
+ },
+ {
+  "market": "ma_cambridge",
+  "lat": 42.37,
+  "lng": -71.08,
+  "overall": 5.0,
+  "count": 12,
+  "adjusted": 4.903,
+  "percentile": 0.8124
+ },
+ {
+  "market": "mn_twin-cities-msa",
+  "lat": 45.31,
+  "lng": -94.24,
+  "overall": 4.5,
+  "count": 3,
+  "adjusted": 4.7468,
+  "percentile": 0.1591
+ },
+ {
+  "market": "mn_twin-cities-msa",
+  "lat": 44.86,
+  "lng": -93.53,
+  "overall": 4.8,
+  "count": 12,
+  "adjusted": 4.8095,
+  "percentile": 0.2647
+ },
+ {
+  "market": "mn_twin-cities-msa",
+  "lat": 46.13,
+  "lng": -93.59,
+  "overall": 4.8,
+  "count": 400,
+  "adjusted": 4.8005,
+  "percentile": 0.2494
+ },
+ {
+  "market": "mn_twin-cities-msa",
+  "lat": 44.94,
+  "lng": -93.16,
+  "overall": 5.0,
+  "count": 40,
+  "adjusted": 4.9642,
+  "percentile": 0.9251
+ },
+ {
+  "market": "mn_twin-cities-msa",
+  "lat": 45.02,
+  "lng": -93.23,
+  "overall": 5.0,
+  "count": 12,
+  "adjusted": 4.9186,
+  "percentile": 0.7289
+ },
+ {
+  "market": "mn_twin-cities-msa",
+  "lat": 44.82,
+  "lng": -92.78,
+  "overall": 4.5,
+  "count": 3,
+  "adjusted": 4.7468,
+  "percentile": 0.1591
+ },
+ {
+  "market": "mn_twin-cities-msa",
+  "lat": 45.2,
+  "lng": -93.39,
+  "overall": 4.5,
+  "count": 400,
+  "adjusted": 4.5078,
+  "percentile": 0.0238
+ },
+ {
+  "market": "mn_twin-cities-msa",
+  "lat": 45.25,
+  "lng": -94.06,
+  "overall": 4.7,
+  "count": 12,
+  "adjusted": 4.755,
+  "percentile": 0.1715
+ },
+ {
+  "market": "mt_bozeman",
+  "lat": 45.69,
+  "lng": -111.09,
+  "overall": 4.7,
+  "count": 400,
+  "adjusted": 4.705,
+  "percentile": 0.0329
+ },
+ {
+  "market": "mt_bozeman",
+  "lat": 45.69,
+  "lng": -111.04,
+  "overall": 4.7,
+  "count": 40,
+  "adjusted": 4.7411,
+  "percentile": 0.0504
+ },
+ {
+  "market": "mt_bozeman",
+  "lat": 45.68,
+  "lng": -111.04,
+  "overall": 5.0,
+  "count": 40,
+  "adjusted": 4.9811,
+  "percentile": 0.907
+ },
+ {
+  "market": "mt_bozeman",
+  "lat": 45.68,
+  "lng": -111.05,
+  "overall": 5.0,
+  "count": 400,
+  "adjusted": 4.9977,
+  "percentile": 1.0
+ },
+ {
+  "market": "mt_bozeman",
+  "lat": 45.68,
+  "lng": -111.03,
+  "overall": 4.95,
+  "count": 150,
+  "adjusted": 4.9472,
+  "percentile": 0.5998
+ },
+ {
+  "market": "mt_bozeman",
+  "lat": 45.68,
+  "lng": -111.04,
+  "overall": 4.9,
+  "count": 40,
+  "adjusted": 4.9011,
+  "percentile": 0.2781
+ },
+ {
+  "market": "mt_bozeman",
+  "lat": 45.68,
+  "lng": -111.1,
+  "overall": 4.95,
+  "count": 12,
+  "adjusted": 4.9297,
+  "percentile": 0.469
+ },
+ {
+  "market": "mt_bozeman",
+  "lat": 45.68,
+  "lng": -111.05,
+  "overall": 5.0,
+  "count": 400,
+  "adjusted": 4.9977,
+  "percentile": 1.0
+ },
+ {
+  "market": "nc_asheville",
+  "lat": 35.62,
+  "lng": -82.48,
+  "overall": 4.8,
+  "count": 12,
+  "adjusted": 4.8416,
+  "percentile": 0.1753
+ },
+ {
+  "market": "nc_asheville",
+  "lat": 35.47,
+  "lng": -82.51,
+  "overall": 4.95,
+  "count": 400,
+  "adjusted": 4.9486,
+  "percentile": 0.669
+ },
+ {
+  "market": "nc_asheville",
+  "lat": 35.59,
+  "lng": -82.55,
+  "overall": 4.5,
+  "count": 1,
+  "adjusted": 4.8559,
+  "percentile": 0.2089
+ },
+ {
+  "market": "nc_asheville",
+  "lat": 35.61,
+  "lng": -82.56,
+  "overall": 4.7,
+  "count": 12,
+  "adjusted": 4.787,
+  "percentile": 0.0997
+ },
+ {
+  "market": "nc_asheville",
+  "lat": 35.6,
+  "lng": -82.54,
+  "overall": 4.7,
+  "count": 40,
+  "adjusted": 4.7383,
+  "percentile": 0.0623
+ },
+ {
+  "market": "nc_asheville",
+  "lat": 35.64,
+  "lng": -82.6,
+  "overall": 4.85,
+  "count": 400,
+  "adjusted": 4.851,
+  "percentile": 0.1958
+ },
+ {
+  "market": "nc_asheville",
+  "lat": 35.61,
+  "lng": -82.65,
+  "overall": 4.95,
+  "count": 3,
+  "adjusted": 4.905,
+  "percentile": 0.3809
+ },
+ {
+  "market": "nc_asheville",
+  "lat": 35.61,
+  "lng": -82.56,
+  "overall": 4.95,
+  "count": 150,
+  "adjusted": 4.9463,
+  "percentile": 0.6474
+ },
+ {
+  "market": "nj_jersey-city",
+  "lat": 40.74,
+  "lng": -74.05,
+  "overall": 4.9,
+  "count": 150,
+  "adjusted": 4.8908,
+  "percentile": 0.8319
+ },
+ {
+  "market": "nj_jersey-city",
+  "lat": 40.75,
+  "lng": -74.05,
+  "overall": 4.8,
+  "count": 150,
+  "adjusted": 4.7971,
+  "percentile": 0.5514
+ },
+ {
+  "market": "nj_jersey-city",
+  "lat": 40.75,
+  "lng": -74.05,
+  "overall": 4.5,
+  "count": 40,
+  "adjusted": 4.5507,
+  "percentile": 0.072
+ },
+ {
+  "market": "nj_jersey-city",
+  "lat": 40.71,
+  "lng": -74.08,
+  "overall": 5.0,
+  "count": 400,
+  "adjusted": 4.994,
+  "percentile": 1.0
+ },
+ {
+  "market": "nj_jersey-city",
+  "lat": 40.73,
+  "lng": -74.08,
+  "overall": 4.8,
+  "count": 3,
+  "adjusted": 4.7643,
+  "percentile": 0.3591
+ },
+ {
+  "market": "nj_jersey-city",
+  "lat": 40.71,
+  "lng": -74.06,
+  "overall": 4.9,
+  "count": 12,
+  "adjusted": 4.8334,
+  "percentile": 0.6631
+ },
+ {
+  "market": "nj_jersey-city",
+  "lat": 40.74,
+  "lng": -74.05,
+  "overall": 4.95,
+  "count": 3,
+  "adjusted": 4.7989,
+  "percentile": 0.5538
+ },
+ {
+  "market": "nj_jersey-city",
+  "lat": 40.72,
+  "lng": -74.08,
+  "overall": 4.7,
+  "count": 1,
+  "adjusted": 4.7487,
+  "percentile": 0.3205
+ },
+ {
+  "market": "nj_newark",
+  "lat": 40.78,
+  "lng": -74.17,
+  "overall": 4.85,
+  "count": 3,
+  "adjusted": 4.6851,
+  "percentile": 0.4551
+ },
+ {
+  "market": "nj_newark",
+  "lat": 40.71,
+  "lng": -74.2,
+  "overall": 4.8,
+  "count": 400,
+  "adjusted": 4.796,
+  "percentile": 0.7513
+ },
+ {
+  "market": "nj_newark",
+  "lat": 40.71,
+  "lng": -74.21,
+  "overall": 4.95,
+  "count": 400,
+  "adjusted": 4.9423,
+  "percentile": 0.9934
+ },
+ {
+  "market": "nj_newark",
+  "lat": 40.78,
+  "lng": -74.17,
+  "overall": 4.9,
+  "count": 1,
+  "adjusted": 4.6597,
+  "percentile": 0.3647
+ },
+ {
+  "market": "nj_newark",
+  "lat": 40.75,
+  "lng": -74.23,
+  "overall": 4.95,
+  "count": 40,
+  "adjusted": 4.8871,
+  "percentile": 0.9441
+ },
+ {
+  "market": "nj_newark",
+  "lat": 40.71,
+  "lng": -74.21,
+  "overall": 5.0,
+  "count": 12,
+  "adjusted": 4.8344,
+  "percentile": 0.8473
+ },
+ {
+  "market": "nj_newark",
+  "lat": 40.74,
+  "lng": -74.2,
+  "overall": 4.7,
+  "count": 40,
+  "adjusted": 4.6871,
+  "percentile": 0.4633
+ },
+ {
+  "market": "nj_newark",
+  "lat": 40.71,
+  "lng": -74.22,
+  "overall": 4.85,
+  "count": 40,
+  "adjusted": 4.8071,
+  "percentile": 0.775
+ },
+ {
+  "market": "nv_clark-county-nv",
+  "lat": 36.1,
+  "lng": -115.06,
+  "overall": 4.8,
+  "count": 3,
+  "adjusted": 4.7906,
+  "percentile": 0.2958
+ },
+ {
+  "market": "nv_clark-county-nv",
+  "lat": 36.15,
+  "lng": -115.23,
+  "overall": 4.5,
+  "count": 400,
+  "adjusted": 4.507,
+  "percentile": 0.0336
+ },
+ {
+  "market": "nv_clark-county-nv",
+  "lat": 36.12,
+  "lng": -115.18,
+  "overall": 4.95,
+  "count": 12,
+  "adjusted": 4.8762,
+  "percentile": 0.7599
+ },
+ {
+  "market": "nv_clark-county-nv",
+  "lat": 36.05,
+  "lng": -115.05,
+  "overall": 4.7,
+  "count": 40,
+  "adjusted": 4.7175,
+  "percentile": 0.1676
+ },
+ {
+  "market": "nv_clark-county-nv",
+  "lat": 36.11,
+  "lng": -115.2,
+  "overall": 4.8,
+  "count": 40,
+  "adjusted": 4.7975,
+  "percentile": 0.3085
+ },
+ {
+  "market": "nv_clark-county-nv",
+  "lat": 36.15,
+  "lng": -115.19,
+  "overall": 4.5,
+  "count": 3,
+  "adjusted": 4.7213,
+  "percentile": 0.1696
+ },
+ {
+  "market": "nv_clark-county-nv",
+  "lat": 36.18,
+  "lng": -115.12,
+  "overall": 4.95,
+  "count": 1,
+  "adjusted": 4.8025,
+  "percentile": 0.3174
+ },
+ {
+  "market": "nv_clark-county-nv",
+  "lat": 36.12,
+  "lng": -115.16,
+  "overall": 4.9,
+  "count": 12,
+  "adjusted": 4.849,
+  "percentile": 0.6481
+ },
+ {
+  "market": "ny_albany",
+  "lat": 42.66,
+  "lng": -73.79,
+  "overall": 4.5,
+  "count": 150,
+  "adjusted": 4.5148,
+  "percentile": 0.0557
+ },
+ {
+  "market": "ny_albany",
+  "lat": 42.64,
+  "lng": -73.75,
+  "overall": 4.9,
+  "count": 150,
+  "adjusted": 4.8898,
+  "percentile": 0.8107
+ },
+ {
+  "market": "ny_albany",
+  "lat": 42.65,
+  "lng": -73.76,
+  "overall": 5.0,
+  "count": 150,
+  "adjusted": 4.9836,
+  "percentile": 1.0
+ },
+ {
+  "market": "ny_albany",
+  "lat": 42.67,
+  "lng": -73.8,
+  "overall": 4.95,
+  "count": 1,
+  "adjusted": 4.7565,
+  "percentile": 0.3563
+ },
+ {
+  "market": "ny_albany",
+  "lat": 42.67,
+  "lng": -73.8,
+  "overall": 5.0,
+  "count": 400,
+  "adjusted": 4.9936,
+  "percentile": 1.0
+ },
+ {
+  "market": "ny_albany",
+  "lat": 42.67,
+  "lng": -73.79,
+  "overall": 4.9,
+  "count": 150,
+  "adjusted": 4.8898,
+  "percentile": 0.8107
+ },
+ {
+  "market": "ny_albany",
+  "lat": 42.65,
+  "lng": -73.77,
+  "overall": 4.95,
+  "count": 400,
+  "adjusted": 4.9448,
+  "percentile": 0.9443
+ },
+ {
+  "market": "ny_albany",
+  "lat": 42.65,
+  "lng": -73.77,
+  "overall": 5.0,
+  "count": 40,
+  "adjusted": 4.9474,
+  "percentile": 0.9454
+ },
+ {
+  "market": "ny_new-york-city",
+  "lat": 40.63,
+  "lng": -73.97,
+  "overall": 4.95,
+  "count": 400,
+  "adjusted": 4.9447,
+  "percentile": 0.9772
+ },
+ {
+  "market": "ny_new-york-city",
+  "lat": 40.73,
+  "lng": -73.88,
+  "overall": 4.8,
+  "count": 1,
+  "adjusted": 4.7375,
+  "percentile": 0.3365
+ },
+ {
+  "market": "ny_new-york-city",
+  "lat": 40.75,
+  "lng": -73.99,
+  "overall": 4.7,
+  "count": 1,
+  "adjusted": 4.7284,
+  "percentile": 0.3162
+ },
+ {
+  "market": "ny_new-york-city",
+  "lat": 40.67,
+  "lng": -73.77,
+  "overall": 4.85,
+  "count": 1,
+  "adjusted": 4.7421,
+  "percentile": 0.3484
+ },
+ {
+  "market": "ny_new-york-city",
+  "lat": 40.76,
+  "lng": -73.96,
+  "overall": 4.7,
+  "count": 3,
+  "adjusted": 4.724,
+  "percentile": 0.3158
+ },
+ {
+  "market": "ny_new-york-city",
+  "lat": 40.69,
+  "lng": -73.92,
+  "overall": 4.9,
+  "count": 3,
+  "adjusted": 4.7702,
+  "percentile": 0.4998
+ },
+ {
+  "market": "ny_new-york-city",
+  "lat": 40.68,
+  "lng": -73.96,
+  "overall": 5.0,
+  "count": 3,
+  "adjusted": 4.7933,
+  "percentile": 0.609
+ },
+ {
+  "market": "ny_new-york-city",
+  "lat": 40.76,
+  "lng": -73.99,
+  "overall": 5.0,
+  "count": 40,
+  "adjusted": 4.9463,
+  "percentile": 0.9789
+ },
+ {
+  "market": "ny_rochester",
+  "lat": 43.19,
+  "lng": -77.63,
+  "overall": 4.7,
+  "count": 1,
+  "adjusted": 4.7482,
+  "percentile": 0.2257
+ },
+ {
+  "market": "ny_rochester",
+  "lat": 43.17,
+  "lng": -77.59,
+  "overall": 4.8,
+  "count": 40,
+  "adjusted": 4.7906,
+  "percentile": 0.3758
+ },
+ {
+  "market": "ny_rochester",
+  "lat": 43.19,
+  "lng": -77.62,
+  "overall": 4.5,
+  "count": 1,
+  "adjusted": 4.7301,
+  "percentile": 0.1964
+ },
+ {
+  "market": "ny_rochester",
+  "lat": 43.18,
+  "lng": -77.64,
+  "overall": 4.5,
+  "count": 150,
+  "adjusted": 4.5158,
+  "percentile": 0.0564
+ },
+ {
+  "market": "ny_rochester",
+  "lat": 43.16,
+  "lng": -77.6,
+  "overall": 4.5,
+  "count": 1,
+  "adjusted": 4.7301,
+  "percentile": 0.1964
+ },
+ {
+  "market": "ny_rochester",
+  "lat": 43.15,
+  "lng": -77.58,
+  "overall": 4.85,
+  "count": 3,
+  "adjusted": 4.7754,
+  "percentile": 0.3081
+ },
+ {
+  "market": "ny_rochester",
+  "lat": 43.12,
+  "lng": -77.62,
+  "overall": 4.85,
+  "count": 400,
+  "adjusted": 4.8476,
+  "percentile": 0.614
+ },
+ {
+  "market": "ny_rochester",
+  "lat": 43.26,
+  "lng": -77.62,
+  "overall": 5.0,
+  "count": 40,
+  "adjusted": 4.9506,
+  "percentile": 0.9475
+ },
+ {
+  "market": "oh_columbus",
+  "lat": 39.96,
+  "lng": -82.96,
+  "overall": 4.9,
+  "count": 150,
+  "adjusted": 4.8919,
+  "percentile": 0.7663
+ },
+ {
+  "market": "oh_columbus",
+  "lat": 40.08,
+  "lng": -82.93,
+  "overall": 4.85,
+  "count": 40,
+  "adjusted": 4.8341,
+  "percentile": 0.5486
+ },
+ {
+  "market": "oh_columbus",
+  "lat": 39.98,
+  "lng": -83.01,
+  "overall": 4.7,
+  "count": 40,
+  "adjusted": 4.7141,
+  "percentile": 0.2012
+ },
+ {
+  "market": "oh_columbus",
+  "lat": 39.97,
+  "lng": -82.97,
+  "overall": 4.7,
+  "count": 3,
+  "adjusted": 4.7542,
+  "percentile": 0.2777
+ },
+ {
+  "market": "oh_columbus",
+  "lat": 39.94,
+  "lng": -82.84,
+  "overall": 4.95,
+  "count": 40,
+  "adjusted": 4.9141,
+  "percentile": 0.8305
+ },
+ {
+  "market": "oh_columbus",
+  "lat": 39.96,
+  "lng": -82.97,
+  "overall": 4.8,
+  "count": 1,
+  "adjusted": 4.7732,
+  "percentile": 0.3125
+ },
+ {
+  "market": "oh_columbus",
+  "lat": 40.01,
+  "lng": -83.01,
+  "overall": 4.7,
+  "count": 150,
+  "adjusted": 4.7044,
+  "percentile": 0.1886
+ },
+ {
+  "market": "oh_columbus",
+  "lat": 39.94,
+  "lng": -82.99,
+  "overall": 4.85,
+  "count": 400,
+  "adjusted": 4.8481,
+  "percentile": 0.6184
+ },
+ {
+  "market": "or_portland",
+  "lat": 45.53,
+  "lng": -122.68,
+  "overall": 5.0,
+  "count": 400,
+  "adjusted": 4.9967,
+  "percentile": 0.9995
+ },
+ {
+  "market": "or_portland",
+  "lat": 45.56,
+  "lng": -122.63,
+  "overall": 4.5,
+  "count": 1,
+  "adjusted": 4.8304,
+  "percentile": 0.2123
+ },
+ {
+  "market": "or_portland",
+  "lat": 45.5,
+  "lng": -122.61,
+  "overall": 4.9,
+  "count": 12,
+  "adjusted": 4.8834,
+  "percentile": 0.415
+ },
+ {
+  "market": "or_portland",
+  "lat": 45.52,
+  "lng": -122.68,
+  "overall": 4.95,
+  "count": 3,
+  "adjusted": 4.8834,
+  "percentile": 0.415
+ },
+ {
+  "market": "or_portland",
+  "lat": 45.47,
+  "lng": -122.62,
+  "overall": 4.7,
+  "count": 1,
+  "adjusted": 4.8486,
+  "percentile": 0.2587
+ },
+ {
+  "market": "or_portland",
+  "lat": 45.56,
+  "lng": -122.69,
+  "overall": 4.8,
+  "count": 40,
+  "adjusted": 4.8127,
+  "percentile": 0.1781
+ },
+ {
+  "market": "or_portland",
+  "lat": 45.48,
+  "lng": -122.71,
+  "overall": 4.5,
+  "count": 150,
+  "adjusted": 4.5227,
+  "percentile": 0.0096
+ },
+ {
+  "market": "or_portland",
+  "lat": 45.49,
+  "lng": -122.59,
+  "overall": 4.8,
+  "count": 3,
+  "adjusted": 4.8488,
+  "percentile": 0.2587
+ },
+ {
+  "market": "or_salem-or",
+  "lat": 44.91,
+  "lng": -123.04,
+  "overall": 4.9,
+  "count": 400,
+  "adjusted": 4.8988,
+  "percentile": 0.5442
+ },
+ {
+  "market": "or_salem-or",
+  "lat": 44.91,
+  "lng": -123.03,
+  "overall": 4.85,
+  "count": 150,
+  "adjusted": 4.85,
+  "percentile": 0.2686
+ },
+ {
+  "market": "or_salem-or",
+  "lat": 44.96,
+  "lng": -123.02,
+  "overall": 4.8,
+  "count": 1,
+  "adjusted": 4.8455,
+  "percentile": 0.258
+ },
+ {
+  "market": "or_salem-or",
+  "lat": 44.95,
+  "lng": -123.0,
+  "overall": 4.95,
+  "count": 150,
+  "adjusted": 4.9438,
+  "percentile": 0.8269
+ },
+ {
+  "market": "or_salem-or",
+  "lat": 44.91,
+  "lng": -123.05,
+  "overall": 4.95,
+  "count": 400,
+  "adjusted": 4.9476,
+  "percentile": 0.8622
+ },
+ {
+  "market": "or_salem-or",
+  "lat": 44.93,
+  "lng": -123.03,
+  "overall": 4.85,
+  "count": 3,
+  "adjusted": 4.85,
+  "percentile": 0.2686
+ },
+ {
+  "market": "or_salem-or",
+  "lat": 44.95,
+  "lng": -123.02,
+  "overall": 4.9,
+  "count": 40,
+  "adjusted": 4.89,
+  "percentile": 0.4876
+ },
+ {
+  "market": "or_salem-or",
+  "lat": 44.93,
+  "lng": -123.03,
+  "overall": 4.8,
+  "count": 40,
+  "adjusted": 4.81,
+  "percentile": 0.1943
+ },
+ {
+  "market": "ri_rhode-island",
+  "lat": 41.36,
+  "lng": -71.49,
+  "overall": 4.7,
+  "count": 40,
+  "adjusted": 4.7263,
+  "percentile": 0.1213
+ },
+ {
+  "market": "ri_rhode-island",
+  "lat": 41.8,
+  "lng": -71.42,
+  "overall": 4.95,
+  "count": 1,
+  "adjusted": 4.8423,
+  "percentile": 0.3305
+ },
+ {
+  "market": "ri_rhode-island",
+  "lat": 41.85,
+  "lng": -71.44,
+  "overall": 4.85,
+  "count": 40,
+  "adjusted": 4.8463,
+  "percentile": 0.3374
+ },
+ {
+  "market": "ri_rhode-island",
+  "lat": 41.51,
+  "lng": -71.3,
+  "overall": 4.5,
+  "count": 40,
+  "adjusted": 4.5663,
+  "percentile": 0.0324
+ },
+ {
+  "market": "ri_rhode-island",
+  "lat": 41.49,
+  "lng": -71.32,
+  "overall": 5.0,
+  "count": 150,
+  "adjusted": 4.9895,
+  "percentile": 0.9978
+ },
+ {
+  "market": "ri_rhode-island",
+  "lat": 41.45,
+  "lng": -71.45,
+  "overall": 4.9,
+  "count": 150,
+  "adjusted": 4.8957,
+  "percentile": 0.6245
+ },
+ {
+  "market": "ri_rhode-island",
+  "lat": 41.49,
+  "lng": -71.28,
+  "overall": 4.8,
+  "count": 3,
+  "adjusted": 4.8242,
+  "percentile": 0.2897
+ },
+ {
+  "market": "ri_rhode-island",
+  "lat": 41.34,
+  "lng": -71.77,
+  "overall": 4.5,
+  "count": 150,
+  "adjusted": 4.5207,
+  "percentile": 0.0216
+ },
+ {
+  "market": "tn_nashville",
+  "lat": 36.18,
+  "lng": -86.79,
+  "overall": 4.8,
+  "count": 400,
+  "adjusted": 4.8007,
+  "percentile": 0.2378
+ },
+ {
+  "market": "tn_nashville",
+  "lat": 36.17,
+  "lng": -86.78,
+  "overall": 4.85,
+  "count": 400,
+  "adjusted": 4.8495,
+  "percentile": 0.397
+ },
+ {
+  "market": "tn_nashville",
+  "lat": 36.17,
+  "lng": -86.8,
+  "overall": 4.5,
+  "count": 1,
+  "adjusted": 4.7997,
+  "percentile": 0.2364
+ },
+ {
+  "market": "tn_nashville",
+  "lat": 36.16,
+  "lng": -86.76,
+  "overall": 4.8,
+  "count": 1,
+  "adjusted": 4.827,
+  "percentile": 0.291
+ },
+ {
+  "market": "tn_nashville",
+  "lat": 36.14,
+  "lng": -86.83,
+  "overall": 4.85,
+  "count": 40,
+  "adjusted": 4.8459,
+  "percentile": 0.3838
+ },
+ {
+  "market": "tn_nashville",
+  "lat": 36.16,
+  "lng": -86.78,
+  "overall": 4.9,
+  "count": 3,
+  "adjusted": 4.8459,
+  "percentile": 0.3838
+ },
+ {
+  "market": "tn_nashville",
+  "lat": 36.21,
+  "lng": -86.71,
+  "overall": 4.7,
+  "count": 40,
+  "adjusted": 4.7259,
+  "percentile": 0.1224
+ },
+ {
+  "market": "tn_nashville",
+  "lat": 36.17,
+  "lng": -86.78,
+  "overall": 4.9,
+  "count": 400,
+  "adjusted": 4.8983,
+  "percentile": 0.622
+ },
+ {
+  "market": "tx_austin",
+  "lat": 30.27,
+  "lng": -97.7,
+  "overall": 5.0,
+  "count": 12,
+  "adjusted": 4.921,
+  "percentile": 0.7444
+ },
+ {
+  "market": "tx_austin",
+  "lat": 30.27,
+  "lng": -97.71,
+  "overall": 4.7,
+  "count": 3,
+  "adjusted": 4.7971,
+  "percentile": 0.2291
+ },
+ {
+  "market": "tx_austin",
+  "lat": 30.28,
+  "lng": -97.75,
+  "overall": 5.0,
+  "count": 12,
+  "adjusted": 4.921,
+  "percentile": 0.7444
+ },
+ {
+  "market": "tx_austin",
+  "lat": 30.27,
+  "lng": -97.71,
+  "overall": 5.0,
+  "count": 40,
+  "adjusted": 4.9652,
+  "percentile": 0.9417
+ },
+ {
+  "market": "tx_austin",
+  "lat": 30.23,
+  "lng": -97.79,
+  "overall": 4.9,
+  "count": 1,
+  "adjusted": 4.8329,
+  "percentile": 0.2968
+ },
+ {
+  "market": "tx_austin",
+  "lat": 30.24,
+  "lng": -97.78,
+  "overall": 4.9,
+  "count": 12,
+  "adjusted": 4.8664,
+  "percentile": 0.4954
+ },
+ {
+  "market": "tx_austin",
+  "lat": 30.27,
+  "lng": -97.7,
+  "overall": 4.95,
+  "count": 1,
+  "adjusted": 4.8374,
+  "percentile": 0.3002
+ },
+ {
+  "market": "tx_austin",
+  "lat": 30.37,
+  "lng": -97.73,
+  "overall": 4.7,
+  "count": 40,
+  "adjusted": 4.7252,
+  "percentile": 0.1255
+ },
+ {
+  "market": "tx_dallas",
+  "lat": 32.81,
+  "lng": -96.82,
+  "overall": 4.9,
+  "count": 150,
+  "adjusted": 4.891,
+  "percentile": 0.8155
+ },
+ {
+  "market": "tx_dallas",
+  "lat": 32.71,
+  "lng": -96.9,
+  "overall": 4.85,
+  "count": 12,
+  "adjusted": 4.8071,
+  "percentile": 0.5018
+ },
+ {
+  "market": "tx_dallas",
+  "lat": 32.78,
+  "lng": -96.8,
+  "overall": 4.8,
+  "count": 12,
+  "adjusted": 4.7799,
+  "percentile": 0.4101
+ },
+ {
+  "market": "tx_dallas",
+  "lat": 32.78,
+  "lng": -96.8,
+  "overall": 4.9,
+  "count": 40,
+  "adjusted": 4.8711,
+  "percentile": 0.7448
+ },
+ {
+  "market": "tx_dallas",
+  "lat": 32.75,
+  "lng": -96.83,
+  "overall": 4.8,
+  "count": 3,
+  "adjusted": 4.7659,
+  "percentile": 0.3139
+ },
+ {
+  "market": "tx_dallas",
+  "lat": 32.81,
+  "lng": -96.81,
+  "overall": 4.9,
+  "count": 3,
+  "adjusted": 4.789,
+  "percentile": 0.4293
+ },
+ {
+  "market": "tx_dallas",
+  "lat": 32.84,
+  "lng": -96.83,
+  "overall": 4.7,
+  "count": 3,
+  "adjusted": 4.7428,
+  "percentile": 0.2732
+ },
+ {
+  "market": "tx_dallas",
+  "lat": 32.77,
+  "lng": -96.76,
+  "overall": 4.95,
+  "count": 12,
+  "adjusted": 4.8617,
+  "percentile": 0.7159
+ },
+ {
+  "market": "tx_fort-worth",
+  "lat": 32.71,
+  "lng": -97.35,
+  "overall": 4.9,
+  "count": 1,
+  "adjusted": 4.7946,
+  "percentile": 0.2889
+ },
+ {
+  "market": "tx_fort-worth",
+  "lat": 32.91,
+  "lng": -97.34,
+  "overall": 4.8,
+  "count": 150,
+  "adjusted": 4.799,
+  "percentile": 0.2947
+ },
+ {
+  "market": "tx_fort-worth",
+  "lat": 32.76,
+  "lng": -97.32,
+  "overall": 4.95,
+  "count": 40,
+  "adjusted": 4.9168,
+  "percentile": 0.8453
+ },
+ {
+  "market": "tx_fort-worth",
+  "lat": 32.72,
+  "lng": -97.25,
+  "overall": 5.0,
+  "count": 3,
+  "adjusted": 4.8339,
+  "percentile": 0.4886
+ },
+ {
+  "market": "tx_fort-worth",
+  "lat": 32.91,
+  "lng": -97.35,
+  "overall": 4.7,
+  "count": 1,
+  "adjusted": 4.7764,
+  "percentile": 0.2552
+ },
+ {
+  "market": "tx_fort-worth",
+  "lat": 32.7,
+  "lng": -97.36,
+  "overall": 4.7,
+  "count": 150,
+  "adjusted": 4.7053,
+  "percentile": 0.1448
+ },
+ {
+  "market": "tx_fort-worth",
+  "lat": 32.78,
+  "lng": -97.3,
+  "overall": 5.0,
+  "count": 1,
+  "adjusted": 4.8037,
+  "percentile": 0.3413
+ },
+ {
+  "market": "tx_fort-worth",
+  "lat": 32.76,
+  "lng": -97.23,
+  "overall": 4.85,
+  "count": 1,
+  "adjusted": 4.79,
+  "percentile": 0.2861
+ },
+ {
+  "market": "wa_seattle",
+  "lat": 47.55,
+  "lng": -122.38,
+  "overall": 4.95,
+  "count": 1,
+  "adjusted": 4.8253,
+  "percentile": 0.299
+ },
+ {
+  "market": "wa_seattle",
+  "lat": 47.61,
+  "lng": -122.34,
+  "overall": 4.9,
+  "count": 1,
+  "adjusted": 4.8208,
+  "percentile": 0.2958
+ },
+ {
+  "market": "wa_seattle",
+  "lat": 47.67,
+  "lng": -122.39,
+  "overall": 4.95,
+  "count": 400,
+  "adjusted": 4.9467,
+  "percentile": 0.8551
+ },
+ {
+  "market": "wa_seattle",
+  "lat": 47.68,
+  "lng": -122.39,
+  "overall": 4.95,
+  "count": 3,
+  "adjusted": 4.8445,
+  "percentile": 0.4082
+ },
+ {
+  "market": "wa_seattle",
+  "lat": 47.56,
+  "lng": -122.39,
+  "overall": 4.95,
+  "count": 3,
+  "adjusted": 4.8445,
+  "percentile": 0.4082
+ },
+ {
+  "market": "wa_seattle",
+  "lat": 47.59,
+  "lng": -122.29,
+  "overall": 4.95,
+  "count": 150,
+  "adjusted": 4.9414,
+  "percentile": 0.8337
+ },
+ {
+  "market": "wa_seattle",
+  "lat": 47.58,
+  "lng": -122.42,
+  "overall": 4.85,
+  "count": 40,
+  "adjusted": 4.8426,
+  "percentile": 0.3785
+ },
+ {
+  "market": "wa_seattle",
+  "lat": 47.56,
+  "lng": -122.31,
+  "overall": 4.95,
+  "count": 3,
+  "adjusted": 4.8445,
+  "percentile": 0.4082
+ }
+]
